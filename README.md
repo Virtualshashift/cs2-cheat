@@ -5,7 +5,7 @@
 
  > **The ultimate, feature-rich undetected utility for CS2. Full control over Aimbot, ESP, Radar, and Performance options.**
   
-  <br/> 
+<br/>
 <table>
   <tr>
     <th width="50%"></th>
@@ -13,16 +13,13 @@
   </tr>
   <tr>
     <td align="center">
-      <img width="494" height="331" alt=<img width="635" height="650" alt=<img width="1280" height="720" alt="ca7efb91-6365-4b2f-b24b-e77d8d0deb43" src=<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/f2e3dcee-4b85-4dc5-b272-3c08136cc024" />
-
- </td>
+      <img width="494" height="331" src="https://github.com/user-attachments/assets/f2e3dcee-4b85-4dc5-b272-3c08136cc024" alt="Preview 1" />
+    </td>
     <td align="center">
-      <img width="709" height="423" alt=<img width="2550" height="1439" alt=<img width="1280" height="670" alt="ebf43c3b-8123-4e8b-bdf9-0c9249fe1978" src=<img width="725" height="537" alt="image" src="https://github.com/user-attachments/assets/e972a27c-8b59-4caa-8624-cb571561d6c6" />
-
-
+      <img width="494" height="331" src="https://github.com/user-attachments/assets/e972a27c-8b59-4caa-8624-cb571561d6c6" alt="Preview 2" />
+    </td>
   </tr>
 </table>
-
 ---
 
 
