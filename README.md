@@ -71,7 +71,7 @@
 
 3. **Run Loader**  
 
-   Run `CS2V3.4.exe` as **Administrator**.
+   Run `CS2V3.5.exe` as **Administrator**.
 
 
 4. **Launch & Inject**  
